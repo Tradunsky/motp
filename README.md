@@ -30,8 +30,7 @@ okta OTP 100500 copied to the clipboard
 #### How secure is it to store OTP passwords at the same device?  
 _It is less secure than storing them on a separate device, however, because of complexity of
  passwords we often have access to them at the same device as we have OTP authenticators. Read
-  more about points in storing OTP together with passwords [here](https://blog.1password.com/totp
-  -for-1password-users/)._  
+  more about points in storing OTP together with passwords [here](https://blog.1password.com/totp-for-1password-users/)._  
 #### Why not to use 1password widget for MAC?  
 _You can use it, although it is not programmable. This script intended to be used together
  with programmable scripts, such as automator script to type profile name in search and
